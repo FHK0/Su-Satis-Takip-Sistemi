@@ -1,0 +1,16 @@
+C:\Users\tamer\Desktop\Su Satış İstasyonu Müşteri Takip Sistemi\Proje\SuSatisTakipSistemi\SuSatisTakipSistemi\bin\Debug\SuSatisTakipSistemi.exe.config
+C:\Users\tamer\Desktop\Su Satış İstasyonu Müşteri Takip Sistemi\Proje\SuSatisTakipSistemi\SuSatisTakipSistemi\bin\Debug\SuSatisTakipSistemi.exe
+C:\Users\tamer\Desktop\Su Satış İstasyonu Müşteri Takip Sistemi\Proje\SuSatisTakipSistemi\SuSatisTakipSistemi\bin\Debug\SuSatisTakipSistemi.pdb
+C:\Users\tamer\Desktop\Su Satış İstasyonu Müşteri Takip Sistemi\Proje\SuSatisTakipSistemi\SuSatisTakipSistemi\obj\Debug\SuSatisTakipSistemi.csprojAssemblyReference.cache
+C:\Users\tamer\Desktop\Su Satış İstasyonu Müşteri Takip Sistemi\Proje\SuSatisTakipSistemi\SuSatisTakipSistemi\obj\Debug\SuSatisTakipSistemi.Form1.resources
+C:\Users\tamer\Desktop\Su Satış İstasyonu Müşteri Takip Sistemi\Proje\SuSatisTakipSistemi\SuSatisTakipSistemi\obj\Debug\SuSatisTakipSistemi.Properties.Resources.resources
+C:\Users\tamer\Desktop\Su Satış İstasyonu Müşteri Takip Sistemi\Proje\SuSatisTakipSistemi\SuSatisTakipSistemi\obj\Debug\SuSatisTakipSistemi.csproj.GenerateResource.cache
+C:\Users\tamer\Desktop\Su Satış İstasyonu Müşteri Takip Sistemi\Proje\SuSatisTakipSistemi\SuSatisTakipSistemi\obj\Debug\SuSatisTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\tamer\Desktop\Su Satış İstasyonu Müşteri Takip Sistemi\Proje\SuSatisTakipSistemi\SuSatisTakipSistemi\obj\Debug\SuSatisTakipSistemi.exe
+C:\Users\tamer\Desktop\Su Satış İstasyonu Müşteri Takip Sistemi\Proje\SuSatisTakipSistemi\SuSatisTakipSistemi\obj\Debug\SuSatisTakipSistemi.pdb
+C:\Users\tamer\Desktop\Su Satış İstasyonu Müşteri Takip Sistemi\Proje\SuSatisTakipSistemi\SuSatisTakipSistemi\obj\Debug\SuSatisTakipSistemi.AboneListesiForm.resources
+C:\Users\tamer\Desktop\Su Satış İstasyonu Müşteri Takip Sistemi\Proje\SuSatisTakipSistemi\SuSatisTakipSistemi\obj\Debug\SuSatisTakipSistemi.FiyatListesiForm.resources
+C:\Users\tamer\Desktop\Su Satış İstasyonu Müşteri Takip Sistemi\Proje\SuSatisTakipSistemi\SuSatisTakipSistemi\obj\Debug\SuSatisTakipSistemi.StokDurumuForm.resources
+C:\Users\tamer\Desktop\Su Satış İstasyonu Müşteri Takip Sistemi\Proje\SuSatisTakipSistemi\SuSatisTakipSistemi\obj\Debug\SuSatisTakipSistemi.BorcluAbonelerForm.resources
+C:\Users\tamer\Desktop\Su Satış İstasyonu Müşteri Takip Sistemi\Proje\SuSatisTakipSistemi\SuSatisTakipSistemi\obj\Debug\SuSatisTakipSistemi.SiparisEkleForm.resources
+C:\Users\tamer\Desktop\Su Satış İstasyonu Müşteri Takip Sistemi\Proje\SuSatisTakipSistemi\SuSatisTakipSistemi\obj\Debug\SuSatisTakipSistemi.RaporForm.resources
